@@ -23,7 +23,7 @@ These are the projects I'm working on:
 
 | Browser Extensions | | |
 |:-------------------|-|-|
-| Quick Bookmarks Menu ⭐| [Repo](https://github.com/flyhaozi/NSFW-Expander-for-Twitter) | [Install](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf) |
+| Quick Bookmarks Menu ⭐| [Repo](https://github.com/flyhaozi/Quick-Bookmarks-Menu) | [Install](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf) |
 | Blank New Tab Page - White Smoke | [Repo](https://github.com/flyhaozi/Blank-New-Tab-Page---White-Smoke) | [Install](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh) |
 
 | Userscripts | | |
