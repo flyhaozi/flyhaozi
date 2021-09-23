@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yuhao, **fHz** is the name I use to publish my works.
+I'm Yuhao, I use the name **fHz** to publish my works.
 
 I'm currently learning front-end techniques to develop websites, extensions and scripts.
 
 These are the projects I'm working on:
 
-| Websites | | |
-|-|-|-|
-| flyhaozi.com | [Repo](https://github.com/flyhaozi/flyhaozi.com) | [Open](https://flyhaozi.com/) |
-
-| Extensions | | |
-|-|-|-|
-| Quick Bookmarks Menu | [Repo](https://github.com/flyhaozi/NSFW-Expander-for-Twitter) | [Install](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf) |
+| Browser Extensions | | |
+|:-------------------|-|-|
+| Quick Bookmarks Menu ⭐| [Repo](https://github.com/flyhaozi/NSFW-Expander-for-Twitter) | [Install](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf) |
 | Blank New Tab Page - White Smoke | [Repo](https://github.com/flyhaozi/Blank-New-Tab-Page---White-Smoke) | [Install](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh) |
 
 | Userscripts | | |
-|-|-|-|
+|:------------|-|-|
 | Video Quality Fixer for Twitter | [Repo](https://github.com/flyhaozi/Video-Quality-Fixer-for-Twitter) | [Install](https://greasyfork.org/scripts/399827-video-quality-fixer-for-twitter) |
 | NSFW Expander for Twitter | [Repo](https://github.com/flyhaozi/NSFW-Expander-for-Twitter) | [Install](https://sleazyfork.org/scripts/428873-nsfw-expander-for-twitter) |
+
+| Websites | | |
+|:---------|-|-|
+| flyhaozi.com | [Repo](https://github.com/flyhaozi/flyhaozi.com) | [Open](https://flyhaozi.com/) |
