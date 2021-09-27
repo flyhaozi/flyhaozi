@@ -21,6 +21,10 @@ I'm currently learning front-end techniques to develop websites, extensions and 
 
 These are the projects I'm working on:
 
+| Websites | | |
+|:---------|-|-|
+| flyhaozi.com | [Repo](https://github.com/flyhaozi/flyhaozi.com) | [Open](https://flyhaozi.com/) |
+
 | Browser Extensions | | |
 |:-------------------|-|-|
 | Quick Bookmarks Menu ⭐| [Repo](https://github.com/flyhaozi/Quick-Bookmarks-Menu) | [Install](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf) |
@@ -31,7 +35,3 @@ These are the projects I'm working on:
 | Idle Detection Bypasser | [Repo](https://github.com/flyhaozi/Idle-Detection-Bypasser) | [Install](https://greasyfork.org/scripts/432878-idle-detection-bypasser)
 | Video Quality Fixer for Twitter | [Repo](https://github.com/flyhaozi/Video-Quality-Fixer-for-Twitter) | [Install](https://greasyfork.org/scripts/399827-video-quality-fixer-for-twitter) |
 | NSFW Expander for Twitter | [Repo](https://github.com/flyhaozi/NSFW-Expander-for-Twitter) | [Install](https://sleazyfork.org/scripts/428873-nsfw-expander-for-twitter) |
-
-| Websites | | |
-|:---------|-|-|
-| flyhaozi.com | [Repo](https://github.com/flyhaozi/flyhaozi.com) | [Open](https://flyhaozi.com/) |
