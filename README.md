@@ -28,6 +28,7 @@ These are the projects I'm working on:
 
 | Userscripts | | |
 |:------------|-|-|
+| Idle Detection Bypasser | [Repo](https://github.com/flyhaozi/Idle-Detection-Bypasser) | [Install](https://greasyfork.org/scripts/432878-idle-detection-bypasser)
 | Video Quality Fixer for Twitter | [Repo](https://github.com/flyhaozi/Video-Quality-Fixer-for-Twitter) | [Install](https://greasyfork.org/scripts/399827-video-quality-fixer-for-twitter) |
 | NSFW Expander for Twitter | [Repo](https://github.com/flyhaozi/NSFW-Expander-for-Twitter) | [Install](https://sleazyfork.org/scripts/428873-nsfw-expander-for-twitter) |
 
