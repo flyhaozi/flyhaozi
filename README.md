@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yuhao, I use the name **fHz** to publish my works.
-
-I'm currently learning front-end techniques to develop websites, extensions and scripts.
+I'm Yuhao, I'm currently learning front-end techniques to develop websites, extensions and scripts.
 
 These are the projects I'm working on:
 
